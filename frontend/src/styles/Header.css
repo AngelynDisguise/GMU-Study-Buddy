@@ -1,0 +1,25 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.patriotLogo {
+    height: 60px;
+    object-fit: contain;
+}
+
+.navButton {
+    padding: 20px;
+}
+
+.icButton {
+    height: 70px;
+    width: 70px;
+}
+
+.user {
+    font-family: 'Roboto', sans-serif;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    border-bottom: 5px solid lightgreen;
+}
